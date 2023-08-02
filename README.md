@@ -1,2 +1,2 @@
-#!/bin/bash
-pwd
+Shell navigation task
+0x00
