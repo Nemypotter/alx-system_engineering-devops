@@ -1,2 +1,1 @@
-Shell navigation task
-0x00
+Shell variables, init files and expansions
